@@ -1,0 +1,4 @@
+# Project exclude paths
+/maven-test/target/
+/out/
+/stu-info-sys/target/
